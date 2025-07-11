@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jake-mok-nelson-mcp-find-similar-github-issues-badge.png)](https://mseep.ai/app/jake-mok-nelson-mcp-find-similar-github-issues)
+
 # GitHub Support Assistant
 
 An MCP server that helps support engineers find similar GitHub issues to speed up troubleshooting.
